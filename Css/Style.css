@@ -1,0 +1,27 @@
+/** Apartado del Carrusel*/
+
+.color{
+    height: 650px;
+}
+
+/** Trabanjo en el footer*/
+
+.state{
+    height: 450px;
+}
+
+
+.margen{
+    background-color: rgba(8, 7, 7,80%)
+}
+
+.but{
+    width: 75px;
+    font-size: xx-small !important;
+}
+
+@media (min-width: 768px) { 
+    .margen{
+       width: 550px !important;
+    }
+}
